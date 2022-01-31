@@ -1,0 +1,14 @@
+.menuItem {
+    cursor: pointer;
+    margin-bottom: 10px;
+    display: inline-block;
+    color: rgba(0, 0, 0, .5);
+    transition: all .3s;
+    font-size: 16px;
+    user-select: none;
+}
+
+.menuItem:hover,
+.menuItem_active {
+    color: #000000;
+}

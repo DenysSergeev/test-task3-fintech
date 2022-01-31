@@ -1,0 +1,4 @@
+export const UPDATE_USERS_LIST = 'UPDATE_USERS_LIST';
+export const UPDATE_USER = 'UPDATE_USER';
+export const CLEAR_USERS = 'CLEAR_USERS';
+

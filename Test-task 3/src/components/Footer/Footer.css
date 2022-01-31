@@ -1,0 +1,7 @@
+footer {
+    width: 100vw;
+    height: 50px;
+    background-color: whitesmoke;
+    padding: 15px;
+    box-sizing: border-box;
+}

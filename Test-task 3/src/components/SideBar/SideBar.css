@@ -1,0 +1,7 @@
+.sidebar {
+    background-color: aliceblue;
+    width: 20vw;
+    height: calc(100vh - 100px);
+    padding: 15px;
+    box-sizing: border-box;
+}

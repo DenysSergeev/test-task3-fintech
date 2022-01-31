@@ -1,0 +1,27 @@
+.user {
+    margin-bottom: 15px;
+    max-width: 80vw;
+    height: 84px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    border: 2px dashed burlywood;
+    padding: 15px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.avatar {
+    width: 50px;
+    margin-right: 15px;
+}
+
+.user:hover {
+    border: 2px solid burlywood;
+    background-color: whitesmoke;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
